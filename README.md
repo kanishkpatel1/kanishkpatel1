@@ -4,3 +4,4 @@ insta--@royal_kanishk_patel
 leet code-    https://leetcode.com/royal_kanishk_patel/
 codechef-   https://www.codechef.com/users/gla2115000505
 hackerrank- https://www.hackerrank.com/kanishkdeveshpa1  
+gfg-https://auth.geeksforgeeks.org/user/kanishkdeveshpatel/practice
