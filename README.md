@@ -116,5 +116,5 @@
 <a href="mailto:kanishkdeveshpatel@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
-## ⭐️ Kanishk Patel(https://github.com/kanishkpatel1) : 🇮🇳
+## ⭐️ Kanishk Patel(https://github.com/kanishkpatel1)  <img src="https://media.tenor.com/d39zhmpSHT4AAAAi/umm.gif" width="30px" height="30px">
 <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
