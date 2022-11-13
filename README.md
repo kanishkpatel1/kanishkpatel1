@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> 
-    <strong><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90px">नमस्ते (Namaste)🙏🏻 I am <mark>Kanishk Patel</mark></strong><img src="https://media.giphy.com/media/3ohzdJFbmlJ3mQFRYI/giphy.gif" width="90px">
+    <strong><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90px"> नमस्ते (Namaste)🙏🏻 I am <mark>Kanishk Patel </mark></strong><img src="https://imgur.com/a/8tSQkRy" width="90px">
     <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> DSA <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h1>
@@ -110,10 +110,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sarthak77"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/sarthak02singhal/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/sarthak.singhal.98434"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
-<a href="mailto:sarthak02singhal@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/kanishk-patel-795640205/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/royal_kanishk_patel/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/kanishk.patel.5680"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
+<a href="mailto:kanishkdeveshpatel@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 ## ⭐️ Kanishk Patel(https://github.com/kanishkpatel1) 
