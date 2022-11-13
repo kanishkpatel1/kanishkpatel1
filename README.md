@@ -2,7 +2,7 @@
   <h1 align="center"> 
     <strong><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60px"> नमस्ते (Namaste)🙏🏻 I am <mark>Kanishk Patel </mark></strong><img src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" width="90px">
     <br> <strong> I’m currently learning  DSA <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>
-    <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
+    <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :interrobang:</strong> 
   </h1>
 </div>
 
@@ -116,5 +116,5 @@
 <a href="mailto:kanishkdeveshpatel@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
-## ⭐️ Kanishk Patel(https://github.com/kanishkpatel1) 
+## ⭐️ Kanishk Patel(https://github.com/kanishkpatel1) : :india
 <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
