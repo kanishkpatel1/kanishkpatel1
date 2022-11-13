@@ -26,8 +26,8 @@
       <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
       <p align="center">
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+        <code><a href="https://www.mysql.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
+        <code><a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
         </code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
         <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
