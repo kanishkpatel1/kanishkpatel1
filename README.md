@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> 
-    <strong><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90px"> नमस्ते (Namaste)🙏🏻 I am <mark>Kanishk Patel </mark></strong><img src="https://imgur.com/a/8tSQkRy" width="90px">
+    <strong><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90px"> नमस्ते (Namaste)🙏🏻 I am <mark>Kanishk Patel </mark></strong>
     <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> DSA <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h1>
