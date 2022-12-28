@@ -25,11 +25,16 @@
       </h3>
       <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
       <p align="center">
+          <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://www.mysql.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
         <code><a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+        <code><a href="https://www.google.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+        <code><a href="https://www.google.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+        <code><a href="https://www.javascript.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+        <code><a href="https://nodejs.org/en/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+        <code><a href="https://www.mongodb.com/home" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+        <code><a href="https://www.mysql.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
         </code>
-        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
       </p>
     </p>
    </div>
