@@ -1,4 +1,4 @@
-<h1 align="center">Ram Ram Sareya ne , I'm Kanishk Patel</h1>
+<h1 align="center">Hi , I'm Kanishk Patel</h1>
 <h3 align="center">A passionate frontend developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkpatel1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkpatel1" /> </p>
