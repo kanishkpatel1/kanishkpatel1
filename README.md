@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkpatel1" alt="kanishkpatel1" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📝 I regularly write articles for [coders](coders)
 
